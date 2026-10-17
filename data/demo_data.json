@@ -1,0 +1,822 @@
+{
+  "title": "JOMI-SHIELD Synthetic Land Demo",
+  "notice": "এই ডেটাসেটের সব plot, deed, owner label ও status সম্পূর্ণ কাল্পনিক। বাস্তব জমি বা বাস্তব ব্যক্তির তথ্য নয়।",
+  "plots": [
+    {
+      "plot_id": "JP-1001",
+      "dag_no": "DAG-502",
+      "khatian_no": "KHT-210",
+      "area_decimal": 10,
+      "district": "ঢাকা",
+      "upazila": "সাভার",
+      "mouza": "মৌজা-01",
+      "record_status": "সম্পূর্ণ (ডেমো)",
+      "mutation_status": "সম্পন্ন",
+      "tax_status": "পরিশোধিত (ডেমো)",
+      "case_status": "ডেমোতে মামলা উল্লেখ নেই",
+      "acquisition_status": "ডেমোতে অধিগ্রহণের তথ্য উল্লেখ নেই",
+      "land_type": "ভিটা",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2008",
+          "owner_label": "কাল্পনিক মালিক-41",
+          "source": "DEMO-D-001",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2018",
+          "owner_label": "কাল্পনিক মালিক-01",
+          "source": "DEMO-D-030",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-030",
+          "year": 2018,
+          "owner_label": "কাল্পনিক মালিক-01",
+          "status": "সক্রিয়",
+          "area_decimal": 10,
+          "note": "কাল্পনিক নমুনা দলিল"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1002",
+      "dag_no": "DAG-509",
+      "khatian_no": "KHT-219",
+      "area_decimal": 8,
+      "district": "গাজীপুর",
+      "upazila": "কালিয়াকৈর",
+      "mouza": "মৌজা-02",
+      "record_status": "সম্পূর্ণ (ডেমো)",
+      "mutation_status": "চলমান",
+      "tax_status": "অজানা",
+      "case_status": "ডেমোতে মামলা উল্লেখ নেই",
+      "acquisition_status": "ডেমোতে অধিগ্রহণের তথ্য উল্লেখ নেই",
+      "land_type": "কৃষি",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2009",
+          "owner_label": "কাল্পনিক মালিক-42",
+          "source": "DEMO-D-002",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2019",
+          "owner_label": "কাল্পনিক মালিক-02",
+          "source": "DEMO-D-031",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-031",
+          "year": 2019,
+          "owner_label": "কাল্পনিক মালিক-02",
+          "status": "সক্রিয়",
+          "area_decimal": 8,
+          "note": "কাল্পনিক নমুনা দলিল"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1003",
+      "dag_no": "DAG-516",
+      "khatian_no": "KHT-228",
+      "area_decimal": 6.5,
+      "district": "নারায়ণগঞ্জ",
+      "upazila": "রূপগঞ্জ",
+      "mouza": "মৌজা-03",
+      "record_status": "সম্পূর্ণ (ডেমো)",
+      "mutation_status": "সম্পন্ন",
+      "tax_status": "পরিশোধিত (ডেমো)",
+      "case_status": "ডেমোতে মামলা উল্লেখ নেই",
+      "acquisition_status": "ডেমোতে অধিগ্রহণের তথ্য উল্লেখ নেই",
+      "land_type": "আবাসিক",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2010",
+          "owner_label": "কাল্পনিক মালিক-43",
+          "source": "DEMO-D-003",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2020",
+          "owner_label": "কাল্পনিক মালিক-03",
+          "source": "DEMO-D-032",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-032",
+          "year": 2020,
+          "owner_label": "কাল্পনিক মালিক-03",
+          "status": "সক্রিয়",
+          "area_decimal": 6.5,
+          "note": "কাল্পনিক নমুনা দলিল"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1004",
+      "dag_no": "DAG-523",
+      "khatian_no": "KHT-237",
+      "area_decimal": 12,
+      "district": "কুমিল্লা",
+      "upazila": "সদর দক্ষিণ",
+      "mouza": "মৌজা-04",
+      "record_status": "সম্পূর্ণ (ডেমো)",
+      "mutation_status": "যাচাই বাকি",
+      "tax_status": "পরিশোধিত (ডেমো)",
+      "case_status": "ডেমোতে মামলা উল্লেখ নেই",
+      "acquisition_status": "ডেমোতে অধিগ্রহণের তথ্য উল্লেখ নেই",
+      "land_type": "নাল",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2011",
+          "owner_label": "কাল্পনিক মালিক-44",
+          "source": "DEMO-D-004",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2021",
+          "owner_label": "কাল্পনিক মালিক-04",
+          "source": "DEMO-D-033",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-033",
+          "year": 2021,
+          "owner_label": "কাল্পনিক মালিক-04",
+          "status": "সক্রিয়",
+          "area_decimal": 12,
+          "note": "কাল্পনিক নমুনা দলিল"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1005",
+      "dag_no": "DAG-530",
+      "khatian_no": "KHT-246",
+      "area_decimal": 5.25,
+      "district": "চট্টগ্রাম",
+      "upazila": "পটিয়া",
+      "mouza": "মৌজা-05",
+      "record_status": "তথ্য অসম্পূর্ণ",
+      "mutation_status": "সম্পন্ন",
+      "tax_status": "তথ্য অনুপস্থিত",
+      "case_status": "ডেমোতে মামলা উল্লেখ নেই",
+      "acquisition_status": "ডেমোতে অধিগ্রহণের তথ্য উল্লেখ নেই",
+      "land_type": "ভিটা",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2012",
+          "owner_label": "কাল্পনিক মালিক-45",
+          "source": "DEMO-D-005",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2022",
+          "owner_label": "কাল্পনিক মালিক-05",
+          "source": "DEMO-D-034",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-034",
+          "year": 2022,
+          "owner_label": "কাল্পনিক মালিক-05",
+          "status": "সক্রিয়",
+          "area_decimal": 5.25,
+          "note": "কাল্পনিক নমুনা দলিল"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1006",
+      "dag_no": "DAG-537",
+      "khatian_no": "KHT-255",
+      "area_decimal": 14,
+      "district": "রাজশাহী",
+      "upazila": "পবা",
+      "mouza": "মৌজা-06",
+      "record_status": "সম্পূর্ণ (ডেমো)",
+      "mutation_status": "সম্পন্ন",
+      "tax_status": "পরিশোধিত (ডেমো)",
+      "case_status": "ডেমোতে মামলা উল্লেখ নেই",
+      "acquisition_status": "ডেমোতে অধিগ্রহণের তথ্য উল্লেখ নেই",
+      "land_type": "কৃষি",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2013",
+          "owner_label": "কাল্পনিক মালিক-46",
+          "source": "DEMO-D-006",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2023",
+          "owner_label": "কাল্পনিক মালিক-06",
+          "source": "DEMO-D-035",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-035",
+          "year": 2023,
+          "owner_label": "কাল্পনিক মালিক-06",
+          "status": "সক্রিয়",
+          "area_decimal": 14,
+          "note": "কাল্পনিক নমুনা দলিল"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1007",
+      "dag_no": "DAG-544",
+      "khatian_no": "KHT-264",
+      "area_decimal": 9,
+      "district": "খুলনা",
+      "upazila": "দাকোপ",
+      "mouza": "মৌজা-07",
+      "record_status": "সম্পূর্ণ (ডেমো)",
+      "mutation_status": "চলমান",
+      "tax_status": "অজানা",
+      "case_status": "ডেমোতে মামলা উল্লেখ নেই",
+      "acquisition_status": "ডেমোতে অধিগ্রহণের তথ্য উল্লেখ নেই",
+      "land_type": "আবাসিক",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2014",
+          "owner_label": "কাল্পনিক মালিক-47",
+          "source": "DEMO-D-007",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2024",
+          "owner_label": "কাল্পনিক মালিক-07",
+          "source": "DEMO-D-036",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-036",
+          "year": 2024,
+          "owner_label": "কাল্পনিক মালিক-07",
+          "status": "সক্রিয়",
+          "area_decimal": 9,
+          "note": "কাল্পনিক নমুনা দলিল"
+        },
+        {
+          "deed_id": "DEMO-D-136",
+          "year": 2020,
+          "owner_label": "কাল্পনিক দাবিদার-37",
+          "status": "সক্রিয়",
+          "area_decimal": 9,
+          "note": "ডেমো conflict scenario; বাস্তব দলিল নয়"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1008",
+      "dag_no": "DAG-551",
+      "khatian_no": "KHT-273",
+      "area_decimal": 7.5,
+      "district": "সিলেট",
+      "upazila": "দক্ষিণ সুরমা",
+      "mouza": "মৌজা-08",
+      "record_status": "সম্পূর্ণ (ডেমো)",
+      "mutation_status": "সম্পন্ন",
+      "tax_status": "পরিশোধিত (ডেমো)",
+      "case_status": "মামলার তথ্য যাচাই বাকি",
+      "acquisition_status": "ডেমোতে অধিগ্রহণের তথ্য উল্লেখ নেই",
+      "land_type": "নাল",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2015",
+          "owner_label": "কাল্পনিক মালিক-48",
+          "source": "DEMO-D-008",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2018",
+          "owner_label": "কাল্পনিক মালিক-08",
+          "source": "DEMO-D-037",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-037",
+          "year": 2018,
+          "owner_label": "কাল্পনিক মালিক-08",
+          "status": "সক্রিয়",
+          "area_decimal": 7.5,
+          "note": "কাল্পনিক নমুনা দলিল"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1009",
+      "dag_no": "DAG-558",
+      "khatian_no": "KHT-282",
+      "area_decimal": 11,
+      "district": "ময়মনসিংহ",
+      "upazila": "ত্রিশাল",
+      "mouza": "মৌজা-09",
+      "record_status": "সম্পূর্ণ (ডেমো)",
+      "mutation_status": "সম্পন্ন",
+      "tax_status": "পরিশোধিত (ডেমো)",
+      "case_status": "ডেমোতে মামলা উল্লেখ নেই",
+      "acquisition_status": "ডেমোতে অধিগ্রহণের তথ্য উল্লেখ নেই",
+      "land_type": "ভিটা",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2008",
+          "owner_label": "কাল্পনিক মালিক-49",
+          "source": "DEMO-D-009",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2019",
+          "owner_label": "কাল্পনিক মালিক-09",
+          "source": "DEMO-D-038",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-038",
+          "year": 2019,
+          "owner_label": "কাল্পনিক মালিক-09",
+          "status": "সক্রিয়",
+          "area_decimal": 11,
+          "note": "কাল্পনিক নমুনা দলিল"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1010",
+      "dag_no": "DAG-565",
+      "khatian_no": "KHT-291",
+      "area_decimal": 4.75,
+      "district": "বরিশাল",
+      "upazila": "বাকেরগঞ্জ",
+      "mouza": "মৌজা-10",
+      "record_status": "সম্পূর্ণ (ডেমো)",
+      "mutation_status": "সম্পন্ন",
+      "tax_status": "তথ্য অনুপস্থিত",
+      "case_status": "ডেমোতে মামলা উল্লেখ নেই",
+      "acquisition_status": "ডেমোতে অধিগ্রহণের তথ্য উল্লেখ নেই",
+      "land_type": "কৃষি",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2009",
+          "owner_label": "কাল্পনিক মালিক-50",
+          "source": "DEMO-D-010",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2020",
+          "owner_label": "কাল্পনিক মালিক-10",
+          "source": "DEMO-D-039",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-039",
+          "year": 2020,
+          "owner_label": "কাল্পনিক মালিক-10",
+          "status": "সক্রিয়",
+          "area_decimal": 4.75,
+          "note": "কাল্পনিক নমুনা দলিল"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1011",
+      "dag_no": "DAG-572",
+      "khatian_no": "KHT-300",
+      "area_decimal": 16,
+      "district": "রংপুর",
+      "upazila": "পীরগঞ্জ",
+      "mouza": "মৌজা-11",
+      "record_status": "সম্পূর্ণ (ডেমো)",
+      "mutation_status": "যাচাই বাকি",
+      "tax_status": "পরিশোধিত (ডেমো)",
+      "case_status": "ডেমোতে মামলা উল্লেখ নেই",
+      "acquisition_status": "যাচাই বাকি",
+      "land_type": "আবাসিক",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2010",
+          "owner_label": "কাল্পনিক মালিক-51",
+          "source": "DEMO-D-011",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2021",
+          "owner_label": "কাল্পনিক মালিক-11",
+          "source": "DEMO-D-040",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-040",
+          "year": 2021,
+          "owner_label": "কাল্পনিক মালিক-11",
+          "status": "সক্রিয়",
+          "area_decimal": 16,
+          "note": "কাল্পনিক নমুনা দলিল"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1012",
+      "dag_no": "DAG-579",
+      "khatian_no": "KHT-309",
+      "area_decimal": 8.5,
+      "district": "যশোর",
+      "upazila": "মনিরামপুর",
+      "mouza": "মৌজা-12",
+      "record_status": "সম্পূর্ণ (ডেমো)",
+      "mutation_status": "সম্পন্ন",
+      "tax_status": "পরিশোধিত (ডেমো)",
+      "case_status": "ডেমোতে মামলা উল্লেখ নেই",
+      "acquisition_status": "ডেমোতে অধিগ্রহণের তথ্য উল্লেখ নেই",
+      "land_type": "নাল",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2011",
+          "owner_label": "কাল্পনিক মালিক-52",
+          "source": "DEMO-D-012",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2022",
+          "owner_label": "কাল্পনিক মালিক-12",
+          "source": "DEMO-D-041",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-041",
+          "year": 2022,
+          "owner_label": "কাল্পনিক মালিক-12",
+          "status": "সক্রিয়",
+          "area_decimal": 8.5,
+          "note": "কাল্পনিক নমুনা দলিল"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1013",
+      "dag_no": "DAG-586",
+      "khatian_no": "KHT-318",
+      "area_decimal": 6,
+      "district": "বগুড়া",
+      "upazila": "শাজাহানপুর",
+      "mouza": "মৌজা-13",
+      "record_status": "সম্পূর্ণ (ডেমো)",
+      "mutation_status": "সম্পন্ন",
+      "tax_status": "অজানা",
+      "case_status": "ডেমোতে মামলা উল্লেখ নেই",
+      "acquisition_status": "ডেমোতে অধিগ্রহণের তথ্য উল্লেখ নেই",
+      "land_type": "ভিটা",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2012",
+          "owner_label": "কাল্পনিক মালিক-53",
+          "source": "DEMO-D-013",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2023",
+          "owner_label": "কাল্পনিক মালিক-13",
+          "source": "DEMO-D-042",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-042",
+          "year": 2023,
+          "owner_label": "কাল্পনিক মালিক-13",
+          "status": "সক্রিয়",
+          "area_decimal": 6,
+          "note": "কাল্পনিক নমুনা দলিল"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1014",
+      "dag_no": "DAG-593",
+      "khatian_no": "KHT-327",
+      "area_decimal": 13,
+      "district": "নোয়াখালী",
+      "upazila": "বেগমগঞ্জ",
+      "mouza": "মৌজা-14",
+      "record_status": "তথ্য অসম্পূর্ণ",
+      "mutation_status": "সম্পন্ন",
+      "tax_status": "পরিশোধিত (ডেমো)",
+      "case_status": "ডেমোতে মামলা উল্লেখ নেই",
+      "acquisition_status": "ডেমোতে অধিগ্রহণের তথ্য উল্লেখ নেই",
+      "land_type": "কৃষি",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2013",
+          "owner_label": "কাল্পনিক মালিক-54",
+          "source": "DEMO-D-014",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2024",
+          "owner_label": "কাল্পনিক মালিক-14",
+          "source": "DEMO-D-043",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-043",
+          "year": 2024,
+          "owner_label": "কাল্পনিক মালিক-14",
+          "status": "সক্রিয়",
+          "area_decimal": 11,
+          "note": "ডেমোতে জমির পরিমাণে অমিল রাখা হয়েছে"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1015",
+      "dag_no": "DAG-600",
+      "khatian_no": "KHT-336",
+      "area_decimal": 9.25,
+      "district": "ফরিদপুর",
+      "upazila": "ভাঙ্গা",
+      "mouza": "মৌজা-15",
+      "record_status": "সম্পূর্ণ (ডেমো)",
+      "mutation_status": "চলমান",
+      "tax_status": "পরিশোধিত (ডেমো)",
+      "case_status": "ডেমোতে মামলা উল্লেখ নেই",
+      "acquisition_status": "ডেমোতে অধিগ্রহণের তথ্য উল্লেখ নেই",
+      "land_type": "আবাসিক",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2014",
+          "owner_label": "কাল্পনিক মালিক-55",
+          "source": "DEMO-D-015",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2018",
+          "owner_label": "কাল্পনিক মালিক-15",
+          "source": "DEMO-D-044",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-044",
+          "year": 2018,
+          "owner_label": "কাল্পনিক মালিক-15",
+          "status": "সক্রিয়",
+          "area_decimal": 9.25,
+          "note": "কাল্পনিক নমুনা দলিল"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1016",
+      "dag_no": "DAG-607",
+      "khatian_no": "KHT-345",
+      "area_decimal": 5.5,
+      "district": "টাঙ্গাইল",
+      "upazila": "মির্জাপুর",
+      "mouza": "মৌজা-16",
+      "record_status": "সম্পূর্ণ (ডেমো)",
+      "mutation_status": "সম্পন্ন",
+      "tax_status": "পরিশোধিত (ডেমো)",
+      "case_status": "ডেমোতে মামলা উল্লেখ নেই",
+      "acquisition_status": "ডেমোতে অধিগ্রহণের তথ্য উল্লেখ নেই",
+      "land_type": "নাল",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2015",
+          "owner_label": "কাল্পনিক মালিক-56",
+          "source": "DEMO-D-016",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2019",
+          "owner_label": "কাল্পনিক মালিক-16",
+          "source": "DEMO-D-045",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-045",
+          "year": 2019,
+          "owner_label": "কাল্পনিক মালিক-16",
+          "status": "সক্রিয়",
+          "area_decimal": 5.5,
+          "note": "কাল্পনিক নমুনা দলিল"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1017",
+      "dag_no": "DAG-614",
+      "khatian_no": "KHT-354",
+      "area_decimal": 18,
+      "district": "কক্সবাজার",
+      "upazila": "চকরিয়া",
+      "mouza": "মৌজা-17",
+      "record_status": "সম্পূর্ণ (ডেমো)",
+      "mutation_status": "সম্পন্ন",
+      "tax_status": "তথ্য অনুপস্থিত",
+      "case_status": "ডেমোতে মামলা উল্লেখ নেই",
+      "acquisition_status": "যাচাই বাকি",
+      "land_type": "ভিটা",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2008",
+          "owner_label": "কাল্পনিক মালিক-57",
+          "source": "DEMO-D-017",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2020",
+          "owner_label": "কাল্পনিক মালিক-17",
+          "source": "DEMO-D-046",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-046",
+          "year": 2020,
+          "owner_label": "কাল্পনিক মালিক-17",
+          "status": "সক্রিয়",
+          "area_decimal": 18,
+          "note": "কাল্পনিক নমুনা দলিল"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1018",
+      "dag_no": "DAG-621",
+      "khatian_no": "KHT-363",
+      "area_decimal": 10.5,
+      "district": "পাবনা",
+      "upazila": "ঈশ্বরদী",
+      "mouza": "মৌজা-18",
+      "record_status": "তথ্য অসম্পূর্ণ",
+      "mutation_status": "যাচাই বাকি",
+      "tax_status": "অজানা",
+      "case_status": "ডেমোতে মামলা উল্লেখ নেই",
+      "acquisition_status": "ডেমোতে অধিগ্রহণের তথ্য উল্লেখ নেই",
+      "land_type": "কৃষি",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2009",
+          "owner_label": "কাল্পনিক মালিক-58",
+          "source": "DEMO-D-018",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2021",
+          "owner_label": "কাল্পনিক মালিক-18",
+          "source": "DEMO-D-047",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-047",
+          "year": 2021,
+          "owner_label": "কাল্পনিক মালিক-18",
+          "status": "সক্রিয়",
+          "area_decimal": 10.5,
+          "note": "কাল্পনিক নমুনা দলিল"
+        },
+        {
+          "deed_id": "DEMO-D-147",
+          "year": 2021,
+          "owner_label": "কাল্পনিক দাবিদার-48",
+          "status": "সক্রিয়",
+          "area_decimal": 10.5,
+          "note": "ডেমো conflict scenario; বাস্তব দলিল নয়"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1019",
+      "dag_no": "DAG-628",
+      "khatian_no": "KHT-372",
+      "area_decimal": 7,
+      "district": "দিনাজপুর",
+      "upazila": "বিরল",
+      "mouza": "মৌজা-19",
+      "record_status": "সম্পূর্ণ (ডেমো)",
+      "mutation_status": "সম্পন্ন",
+      "tax_status": "পরিশোধিত (ডেমো)",
+      "case_status": "ডেমোতে মামলা উল্লেখ নেই",
+      "acquisition_status": "ডেমোতে অধিগ্রহণের তথ্য উল্লেখ নেই",
+      "land_type": "আবাসিক",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2010",
+          "owner_label": "কাল্পনিক মালিক-59",
+          "source": "DEMO-D-019",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2022",
+          "owner_label": "কাল্পনিক মালিক-19",
+          "source": "DEMO-D-048",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-048",
+          "year": 2022,
+          "owner_label": "কাল্পনিক মালিক-19",
+          "status": "সক্রিয়",
+          "area_decimal": 7,
+          "note": "কাল্পনিক নমুনা দলিল"
+        }
+      ]
+    },
+    {
+      "plot_id": "JP-1020",
+      "dag_no": "DAG-635",
+      "khatian_no": "KHT-381",
+      "area_decimal": 6.75,
+      "district": "ঝিনাইদহ",
+      "upazila": "কালীগঞ্জ",
+      "mouza": "মৌজা-20",
+      "record_status": "তথ্য অসম্পূর্ণ",
+      "mutation_status": "চলমান",
+      "tax_status": "তথ্য অনুপস্থিত",
+      "case_status": "মামলার তথ্য যাচাই বাকি",
+      "acquisition_status": "ডেমোতে অধিগ্রহণের তথ্য উল্লেখ নেই",
+      "land_type": "নাল",
+      "updated_label": "কাল্পনিক ডেমো রেকর্ড",
+      "ownership_history": [
+        {
+          "year": "2011",
+          "owner_label": "কাল্পনিক মালিক-60",
+          "source": "DEMO-D-020",
+          "note": "ইতিহাসের প্রাথমিক নমুনা এন্ট্রি"
+        },
+        {
+          "year": "2023",
+          "owner_label": "কাল্পনিক মালিক-20",
+          "source": "DEMO-D-049",
+          "note": "বর্তমান ডেমো এন্ট্রি; সরকারি রেকর্ড নয়"
+        }
+      ],
+      "deeds": [
+        {
+          "deed_id": "DEMO-D-049",
+          "year": 2023,
+          "owner_label": "কাল্পনিক মালিক-20",
+          "status": "সক্রিয়",
+          "area_decimal": 6.75,
+          "note": "কাল্পনিক নমুনা দলিল"
+        }
+      ]
+    }
+  ]
+}
