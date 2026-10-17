@@ -21,15 +21,7 @@ python -m pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Where to add the Gemini API key
-1. Create a key in [Google AI Studio](https://aistudio.google.com/).
-2. In the project folder, find `.streamlit/secrets.toml.example` and copy it to `.streamlit/secrets.toml`.
-3. Put your real values in `.streamlit/secrets.toml`:
 
-```toml
-GEMINI_API_KEY = "paste_your_real_key_here"
-GEMINI_MODEL = "gemini-3.8-flash"
-```
 
 4. Restart `streamlit run app.py`.
 5. For Streamlit Community Cloud deployment, open the app's **Settings → Secrets** and paste the same TOML entries there.
