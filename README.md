@@ -1,3 +1,6 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jomisheild.streamlit.app/)
+
+**Live demo:** https://jomisheild.streamlit.app/
 # JOMI-SHIELD | বাংলা ভূমি যাচাই সহায়ক
 
 A polished Bengali-first Streamlit MVP inspired by the clear service-card and information architecture of Bangladesh's public land-service portal. This is an independent educational demo and is **not** a government website or an official verification service.
